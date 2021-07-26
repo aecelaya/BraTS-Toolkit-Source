@@ -11,7 +11,7 @@ setuptools.setup(
     description='Preprocessing, Segmentation and Fusion for the BraTS challenge',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/neuronflow/BraTS-Toolkit-Source',
+    url='https://github.com/aecelaya/BraTS-Toolkit-Source',
     packages=['brats_toolkit'],
     zip_safe=False,
     install_requires=[
